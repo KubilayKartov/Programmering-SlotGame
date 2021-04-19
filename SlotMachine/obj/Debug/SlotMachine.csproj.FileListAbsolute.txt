@@ -1,0 +1,10 @@
+C:\Users\Kubilay Kartov\Desktop\SlotMachine\obj\Debug\SlotMachine.csprojAssemblyReference.cache
+C:\Users\Kubilay Kartov\Desktop\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+C:\Users\Kubilay Kartov\Desktop\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+C:\Users\Kubilay Kartov\Desktop\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.cache
+C:\Users\Kubilay Kartov\Desktop\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\Kubilay Kartov\Desktop\SlotMachine\bin\Debug\SlotMachine.exe.config
+C:\Users\Kubilay Kartov\Desktop\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\Kubilay Kartov\Desktop\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Users\Kubilay Kartov\Desktop\SlotMachine\obj\Debug\SlotMachine.exe
+C:\Users\Kubilay Kartov\Desktop\SlotMachine\obj\Debug\SlotMachine.pdb
